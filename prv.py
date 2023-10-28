@@ -11,6 +11,7 @@ num3 = [1, 2, 12]
 print(num3, 'is of type', type(num3))
 
 print(num1+num2)
-print(num3)
+print(num1*num2)
+
 
 
