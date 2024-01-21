@@ -1,5 +1,5 @@
 ## my first python code
-print("Python is fun?")
+print("Python is not fun, not at all")
 
 num1 = 5
 print(num1, 'is of type', type(num1))
