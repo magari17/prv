@@ -1,7 +1,7 @@
 ## my first python code
 print("Python is not fun, not at all")
 
-num1 = 5
+num1 = 51
 print(num1, 'is of type', type(num1))
 
 num2 = 8+2j
