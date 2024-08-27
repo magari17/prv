@@ -4,7 +4,7 @@ print("Python is not fun, not at all")
 a = 583
 print(num1, 'is of type', type(num1))
 
-b = 58+3j
+b = 583+3j
 print(num2, 'is of type', type(num2))
 
 num3 = [1, 2, 583]
