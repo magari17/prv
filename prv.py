@@ -7,7 +7,7 @@ print(num1, 'is of type', type(num1))
 b = 583+100j
 print(num2, 'is of type', type(num2))
 
-num3 = [13, 213, 583]
+num3 = [83, 213, 583]
 print(num3, 'is of type', type(num3))
 
 print(a+b)
