@@ -16,6 +16,7 @@ print(num1/num2)
 print(num2*1.1)
 print(num2/1.1)
 primt(num3[1])
+primt(num3[3])
 
 
 
