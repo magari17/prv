@@ -1,4 +1,8 @@
 ## my first python code
+import time
+
+start_time = time.time()
+
 print("Python is not fun, not at all")
 
 a = 583
@@ -18,5 +22,5 @@ print(num2/1.1)
 primt(num3[1])
 primt(num3[3])
 
-
+print("--- %s seconds ---" % (time.time() - start_time))
 
