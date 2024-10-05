@@ -19,7 +19,6 @@ print(a*b)
 print(num1/num2)
 print(num2*1.1)
 primt(num3[1])
-primt(num3[3])
 
 print("<-- %s seconds" % (time.time() - start_time))
 
