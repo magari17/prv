@@ -17,7 +17,7 @@ print(num3, 'is of type', type(num3))
 print(a+b)
 print(a*b)
 print(num1/num2)
-print(num2*1.1)
+print(num2*1.8)
 primt(num3[1])
 
 print("<-- %s seconds" % (time.time() - start_time))
