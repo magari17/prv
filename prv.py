@@ -15,7 +15,7 @@ num3 = [183, 283, 583]
 print(num3, 'is of type', type(num3))
 
 print(a+b)
-print(a*b)
+print(a*b+c)
 print(num1/num2)
 print(num2*1.583)
 primt(num3[1])
