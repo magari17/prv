@@ -20,5 +20,5 @@ print(num1/num2)
 print(num2*1.583)
 primt(num3[1])
 
-print("<-- %s seconds" % (time.time() - start_time))
+print("<- %s seconds" % (time.time() - start_time))
 
